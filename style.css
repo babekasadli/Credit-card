@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+body{
+    color: white;
+}
+.rectangle {
+    height: 200px;
+    width: 330px;
+    background-color: #8A2Be2;
+    border-radius: 10px;
+}
+.pic{
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    height: 50px;
+    width: 50px;
+}
+.kod{
+    margin-top: -4px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-family: 'Courier New', monospace;
+}
+.isim{
+    margin-left: 15px;
+    margin-bottom: 0px;
+    font-family: monospace;
+    font-size: 20px;
+    font-style: bold;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.valid{
+    margin-left: 15px;
+    margin-bottom: 0px;
+    font-family: Tahoma, sans-serif;
+    font-size: 9px;
+    margin-top: 15px;
+
+}
+.date{
+    font-family: Tahoma, sans-serif;
+    margin-top: 0px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+
+}
+
+div{
+    margin-left: 10px;
+    margin-top: 10px;
+}
